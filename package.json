@@ -1,0 +1,21 @@
+{
+  "name": "ES6",
+  "version": "0.0.0",
+  "description": "ES6 tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ES6"
+  ],
+  "author": "Jean-Pierre Sierens",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "gulp": "~3.8.11",
+    "browserify": "~10.2.1",
+    "babelify": "~6.1.1",
+    "vinyl-source-stream": "~1.1.0",
+    "gulp-util": "~3.0.4"
+  }
+}
